@@ -28,9 +28,9 @@ This repository provides the test code of the following paper:
 
 ## How to run ?
 
-Download our **model files** and unzip it to the **./model** floder: [Google Drive](https://drive.google.com/file/d/13oMDvE1J91pTXbhIXwGXA9F9EGsFj3Lk/view?usp=sharing) or  [腾讯微云](https://share.weiyun.com/xCM0jF2D).
+Download our **model files** and unzip it to the **./model** floder: [Google Drive](https://drive.google.com/file/d/1ZgW5KDKZOfbyH0p8yT3HzLL0SXW237Xl/view?usp=sharing) or  [腾讯微云](https://share.weiyun.com/xCM0jF2D).
 
-Download **test data** and unzip it to the **./test_data** floder: [Google Drive](https://drive.google.com/file/d/1V1Dhz_NbtkcRcgscE532tTDLVaMzwnh_/view?usp=sharing) or  [腾讯微云](https://share.weiyun.com/xCM0jF2D).
+Download **test data** and unzip it to the **./test_data** floder: [Google Drive](https://drive.google.com/file/d/1ipB-hXEllSowV-6jANVr1KC_ImcKfR-W/view?usp=sharing) or  [腾讯微云](https://share.weiyun.com/xCM0jF2D).
 
 Please run the follow command to generate the results.
 
