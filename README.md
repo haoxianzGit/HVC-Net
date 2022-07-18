@@ -2,8 +2,9 @@
 
 
 
+<!-- <video src="videos/video_demo.mp4" controls="controls" width="700"></video> --> 
 
-<video src="videos/video_demo.mp4" controls="controls" width="700"></video>
+<img src="figures/video_demo.gif" width="700" />
 
 <br>
 
@@ -50,8 +51,11 @@ python run.py \
 
 ## Results
 
-<video src="results/V15_1_out.mp4" controls="controls" width="700"></video>
-<video src="results/V15_7_out.mp4" controls="controls" width="700"></video>
+<!-- <video src="results/V15_1_out.mp4" controls="controls" width="700"></video> --> 
+<!-- <video src="results/V15_7_out.mp4" controls="controls" width="700"></video> --> 
+
+<img src="figures/V15_1_out.gif" width="700" />
+<img src="figures/V15_7_out.gif" width="700" />
 
 ## License and Citation
 
